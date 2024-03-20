@@ -1,6 +1,6 @@
 
 
-<h1> Translater Assistant from English to Spanish </h1>
+Translater Assistant from English to Spanish 
 <h2> Galaxy Watch5 Pro</h2>
 
 
