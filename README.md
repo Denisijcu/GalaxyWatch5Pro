@@ -1,7 +1,7 @@
 
 <div>
 
-   <h1 align="Center"> Translater Assistant from English to Spanish </h1>
+   <h1 align="Center"> Assistant Translater  from English to Spanish </h1>
    <h1 align="Center">  Galaxy Watch5 Pro </h1>
 
 
