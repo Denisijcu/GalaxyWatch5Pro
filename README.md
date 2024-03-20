@@ -1,7 +1,13 @@
 
+<div>
 
-Translater Assistant from English to Spanish 
-<h2> Galaxy Watch5 Pro</h2>
+   <h1 align="Center"> Translater Assistant from English to Spanish </h1>
+   <h2>  Galaxy Watch5 Pro </h2>
+  
+</div>
+
+
+
 
 
 
