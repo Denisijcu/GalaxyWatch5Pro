@@ -11,6 +11,24 @@ This project  and  GPT-ChatApp represents the culmination of the concepts and te
       
    </p>
 
+</p>
+
+<h2>To use this code.</h2>
+<p>Get your OpenAI API's key first and Go Model package inside GPTApi and replace  </p>
+<pre>
+    <code>
+ interface GPTApi {
+    @Headers(
+        "Content-Type: application/json",
+        "Authorization: Bearer "Your OpenAI key here"
+    )
+    @POST("/v1/completions")
+    fun getCompletion(
+        @Body requestBody: GPTReq
+    ): Call<GPTRes>
+}
+    </code>
+</pre>
 
   <img src="app/src/main/java/com/denisijcu/galaxywatch5pro/presentation/screen_shot/main_screen.png" />
   
